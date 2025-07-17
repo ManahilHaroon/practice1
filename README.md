@@ -1,2 +1,2 @@
 # practice1
-This is my second Git repository. 
+This is my Git repository. 
